@@ -1,0 +1,23 @@
+{
+  "name": "a02-jblovett",
+  "version": "1.0.0",
+  "description": "css frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jblovett: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@github.com/jdmar3-comp426/a02-jblovett.git"
+  },
+  "author": "jblovett",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-jblovett/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-jblovett#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "bulma": "^0.9.3"
+  }
+}
